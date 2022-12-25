@@ -41,7 +41,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1701913861~acl=/vp9/205_stream.mpd
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1703123584~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=c0b998301ad7a61ccd41e505d81fa594a0a125bb15e9a720de6e052c076c38b7/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671957092~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=c0b998301ad7a61ccd41e505d81fa594a0a125bb15e9a720de6e052c076c38b7/vp9/204_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
